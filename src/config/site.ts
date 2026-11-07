@@ -7,7 +7,7 @@ export const siteConfig = {
     "Vietnamese lessons with Huyền Hannah. Online worldwide or in person in Da Nang. Learn Vietnamese through clear lessons, active practice, and useful feedback.",
   url:
     process.env.NEXT_PUBLIC_APP_URL ||
-    "https://thuhuyen-academy.github.io/landing-page/",
+    "https://thuhuyen-academy.vercel.app",
   ogImage: "/images/teacher/huyen-hannah-share-preview.png",
   teacher: {
     name: "Huyền Hannah",
