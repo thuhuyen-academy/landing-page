@@ -1308,7 +1308,11 @@ window.PROOF_COPY = {
     "Language comes to life through people, culture and everyday experiences.",
     "MOMENTS WITH LEARNERS",
     "Sharing a meal and conversation with learners.",
-    "A group photo after learning together."
+    "A group photo after learning together.",
+    "Practising Vietnamese together around the café table.",
+    "Learners and local buddies gathering for a language meetup in Da Nang.",
+    "Relaxed conversation and guided speaking practice over coffee.",
+    "Smiles and connection during an interactive group session."
   ],
   "zh": [
     "老师与学员",
@@ -1322,7 +1326,11 @@ window.PROOF_COPY = {
     "语言也在人与文化、日常生活的体验中变得鲜活。",
     "与学员的美好时光",
     "与学员一起用餐交流。",
-    "一起学习后的合影。"
+    "一起学习后的合影。",
+    "在咖啡馆围坐一起练习越南语。",
+    "学员与本地语伴在岘港相聚交流。",
+    "喝着咖啡，轻松交流并进行口语练习。",
+    "互动小组课上的笑容与交流。"
   ],
   "ja": [
     "先生と学習者",
@@ -1336,7 +1344,11 @@ window.PROOF_COPY = {
     "人々や文化、日々の体験に触れることで、言葉はいきいきと身につきます。",
     "学習者とのひととき",
     "学習者と食事をしながら会話を楽しむ様子。",
-    "一緒に学んだ後のグループ写真。"
+    "一緒に学んだ後のグループ写真。",
+    "カフェのテーブルを囲んで一緒にベトナム語を練習。",
+    "ダナンでの言語交流に集まった学習者とローカルパートナー。",
+    "カフェでリラックスしながら会話とスピーキング練習。",
+    "笑顔あふれるグループセッションでのひととき。"
   ],
   "fr": [
     "UNE ENSEIGNANTE ET SES APPRENANTS",
@@ -1350,7 +1362,11 @@ window.PROOF_COPY = {
     "La langue prend vie à travers les rencontres, la culture et les expériences du quotidien.",
     "DES MOMENTS AVEC LES APPRENANTS",
     "Un repas et un échange avec des apprenants.",
-    "Une photo de groupe après avoir appris ensemble."
+    "Une photo de groupe après avoir appris ensemble.",
+    "Pratiquer le vietnamien ensemble autour d’une table de café.",
+    "Apprenants et partenaires locaux réunis à Da Nang pour échanger.",
+    "Conversation détendue et pratique orale guidée autour d’un verre.",
+    "Sourires et complicité lors d’une séance de groupe interactive."
   ],
   "ko": [
     "교사와 학습자",
@@ -1364,7 +1380,11 @@ window.PROOF_COPY = {
     "사람과 문화, 일상의 경험을 통해 언어가 살아납니다.",
     "학습자와 함께한 순간",
     "학습자들과 식사하며 이야기를 나누는 모습입니다.",
-    "함께 배운 뒤 찍은 단체 사진입니다."
+    "함께 배운 뒤 찍은 단체 사진입니다.",
+    "카페 테이블에 둘러앉아 함께 베트남어를 연습하는 모습입니다.",
+    "다낭에서 열린 언어 모임에 함께한 학습자들과 현지 버디들입니다.",
+    "여유로운 분위기에서 대화를 나누며 회화를 연습하는 시간입니다.",
+    "함께 배우고 소통하며 웃음이 가득한 그룹 수업 시간입니다."
   ],
   "ru": [
     "ПРЕПОДАВАТЕЛЬ И УЧЕНИКИ",
@@ -1378,7 +1398,11 @@ window.PROOF_COPY = {
     "Язык оживает через общение с людьми, культуру и повседневный опыт.",
     "МОМЕНТЫ С УЧЕНИКАМИ",
     "Совместная трапеза и беседа с учениками.",
-    "Общее фото после совместного обучения."
+    "Общее фото после совместного обучения.",
+    "Практика вьетнамского языка за столиком в кафе.",
+    "Встреча учеников и местных партнёров по практике в Дананге.",
+    "Непринуждённая беседа и разговорная практика за напитками.",
+    "Улыбки и живое общение во время группового занятия."
   ],
   "de": [
     "LEHRERIN UND LERNENDE",
@@ -1392,6 +1416,10 @@ window.PROOF_COPY = {
     "Sprache wird durch Menschen, Kultur und Alltagserlebnisse lebendig.",
     "MOMENTE MIT LERNENDEN",
     "Gemeinsames Essen und Gespräche mit Lernenden.",
-    "Ein Gruppenfoto nach dem gemeinsamen Lernen."
+    "Ein Gruppenfoto nach dem gemeinsamen Lernen.",
+    "Gemeinsam am Cafétisch Vietnamesisch üben.",
+    "Lernende und lokale Übungspartner bei einem Treffen in Da Nang.",
+    "Entspanntes Gespräch und angeleitete Sprechpraxis im Café.",
+    "Lächeln und Austausch bei einer gemeinsamen Gruppensitzung."
   ]
 };
