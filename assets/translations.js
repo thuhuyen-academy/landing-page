@@ -121,7 +121,7 @@ window.PAGE_COPY = {
                "tuition":  [
                                "LESSON OPTIONS \u0026 TUITION",
                                "Choose how you’d like to learn.",
-                               "Save over 67% with early-enrolment tuition.",
+                               "Save up to 48% with early-enrolment tuition.",
                                "Online · one-to-one",
                                "In person in Da Nang · one-to-one",
                                "Small group · up to 4 learners",
